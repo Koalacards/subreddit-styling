@@ -107,7 +107,7 @@ margin: 0;
 }
 
 .subscribers .number:after {
-content: " Forever Alone Tester(s)"
+content: " Tester(s)"
 }
 
 .users-online .number:after {
